@@ -16,18 +16,6 @@ Senior Data Analyst with **6+ years of experience** specializing in data integri
 * 📫 **Contact:** [gajulanaresh689@gmail.com](mailto:gajulanaresh689@gmail.com)
 ---
 
-
-### 🏛️ Data Architecture & Strategic Flow
-**I design governed pipelines that transform fragmented sources into actionable business value.**
-
-| Data Lifecycle Phase | Technologies & Methods | Business Outcome |
-| :--- | :--- | :--- |
-| **Ingestion & Migration** | SQL Legacy Profiling & Snowflake Migration | **100% Schema Alignment** |
-| **Governance & Quality** | ServiceNow CMDB & CSDM Frameworks | **40% Latency Reduction** |
-| **Intelligence & BI** | Star Schema Modeling & Star Schema Architecture | **260+ Hours Automated** |
-
----
----
 ### 🛠 Tech Stack & Professional Expertise
 
 #### 📊 Data Visualization & Governed BI
